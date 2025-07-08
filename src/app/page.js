@@ -3,7 +3,7 @@ export default function HomePage() {
     <main className="min-h-screen bg-white text-gray-900">
       <header className="bg-[crimson] text-white p-4 shadow-md">
         <div className="max-w-6xl mx-auto flex items-center gap-4">
-          <img src="/Logo Red ENGRU.jpg" alt="Faculty Logo" className="h-16 w-16 object-contain" />
+          <img src="/LogoRedENGRU.jpg" alt="Faculty Logo" className="h-16 w-16 object-contain" />
           <div>
             <h1 className="text-2xl font-bold">Faculty of Engineering, Ramkhamhaeng University</h1>
             <p className="text-sm">Student Registration Guidance Portal</p>
