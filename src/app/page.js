@@ -5,8 +5,10 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto flex items-center gap-4">
           <img src="/LogoRedENGRU.jpg" alt="Faculty Logo" className="h-16 w-16 object-contain" />
           <div>
+            <h1 className="text-2xl font-bold">คณะวิศวกรรมศาสตร์ มหาวิทยาลัยรามคำแหง</h1>
             <h1 className="text-2xl font-bold">Faculty of Engineering, Ramkhamhaeng University</h1>
-            <p className="text-sm">Student Registration Guidance Portal</p>
+            <p className="text-sm">ระบบลงทะเบียน</p>
+            <p className="text-sm">Registration System Portal</p>
           </div>
         </div>
       </header>
