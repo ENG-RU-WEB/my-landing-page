@@ -3,12 +3,12 @@ export default function HomePage() {
     <main className="min-h-screen bg-white text-gray-900">
       <header className="bg-[crimson] text-white p-4 shadow-md">
         <div className="max-w-6xl mx-auto flex items-center gap-4">
-          <img src="/LogoRedENGRU.jpg" alt="Faculty Logo" className="h-16 w-16 object-contain" />
+          <img src="/ENG-Building.jpg" alt="Faculty Logo" className="h-16 w-16 object-contain" />
           <div>
-            <h1 className="text-2xl font-bold">คณะวิศวกรรมศาสตร์ มหาวิทยาลัยรามคำแหง</h1>
-            <h1 className="text-2xl font-bold">Faculty of Engineering, Ramkhamhaeng University</h1>
-            <p className="text-sm">ระบบลงทะเบียน</p>
-            <p className="text-sm">Registration System Portal</p>
+            <h1 className="text-2xl font-bold">ระบบลงทะเบียน</h1>
+            <h1 className="text-2xl font-bold">Registration System Portal</h1>
+            <p className="text-sm">คณะวิศวกรรมศาสตร์ มหาวิทยาลัยรามคำแหง</p>
+            <p className="text-sm">Faculty of Engineering, Ramkhamhaeng University</p>
           </div>
         </div>
       </header>
